@@ -116,7 +116,7 @@ const ProductsSection = () => {
 
                 {/* Order Button */}
                 <a
-                  href={`https://wa.me/593989572810?text=Hola%20que%20tal%2C%20me%20gustar%C3%ADa%20pedir%20${product.title}%20de%20Verde%20Sabroso`}
+                  href={`https://wa.me/593984094824?text=Hola%20que%20tal%2C%20me%20gustar%C3%ADa%20pedir%20${product.title}%20de%20Verde%20Sabroso`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`w-full inline-block text-center py-3 px-4 rounded-xl font-bold text-white bg-gradient-to-r ${product.color} hover:shadow-lg transform hover:scale-105 transition-all duration-200`}

@@ -21,7 +21,7 @@ const WhatsAppButton = () => {
   return (
     <div className={`fixed bottom-6 right-6 z-50 transition-all duration-300 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`}>
       <a
-        href="https://wa.me/593989572810?text=Hola%20que%20tal%2C%20me%20gustar%C3%ADa%20pedir%20algo%20de%20Verde%20Sabroso"
+        href="https://wa.me/593984094824?text=Hola%20que%20tal%2C%20me%20gustar%C3%ADa%20pedir%20algo%20de%20Verde%20Sabroso"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center justify-center bg-green-500 text-white rounded-full shadow-lg hover:shadow-xl transform transition-all duration-200 group"
